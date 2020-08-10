@@ -1,4 +1,4 @@
-# Forcefield Viewer
+# Potential field lines viewer
 
 ![Иллюстрация к проекту](https://github.com/Pirnogion/ReadmeImagesStorage/raw/master/ForcefiledViewer.png)
 
